@@ -1,0 +1,3 @@
+# ParkinsonDatabase
+
+SQL databases assignment
